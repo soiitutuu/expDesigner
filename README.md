@@ -113,13 +113,8 @@ PRs welcome! Add new settings with a clear tooltip, registry path/value, default
 
 
 ## 📸 Screenshots
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img width="1282" height="852" alt="Kt3hXCl" src="https://github.com/user-attachments/assets/cf919533-6976-443d-b1c5-d5b00b5503fc" />
-  <img width="1282" height="852" alt="35k4N0z" src="https://github.com/user-attachments/assets/393649a7-7e1e-4b0b-b51b-8bb5f483374d" />
-  <img width="1282" height="852" alt="40iskW6" src="https://github.com/user-attachments/assets/016717d4-0ce2-484e-9f9e-e3fac28bff67" />
-  <img width="1282" height="852" alt="PYRiFmx" src="https://github.com/user-attachments/assets/8a10ede1-ae18-4eea-bb2f-0d1fdb8fdabf" />
-  <img width="1280" height="820" alt="aWTXUZa" src="https://github.com/user-attachments/assets/4e028c9a-71aa-4353-92f1-b31a9fa1fec5" />
-</div>
+<img width="1282" height="852" alt="NxcGCPo" src="https://github.com/user-attachments/assets/c8d8b1e1-2dae-4ae4-b9e3-c8fb9f660c5a" />
+
 
 ## 🤝 Contributing
 
