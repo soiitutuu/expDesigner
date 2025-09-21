@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/VoidWither/expDesigner/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/VoidWither/expDesigner?style=for-the-badge&color=FFD700"></a>
-  <a href="https://github.com/VoidWither/expDesigner/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/VoidWither/expDesigner?style=for-the-badge"></a>
-  <a href="https://github.com/VoidWither/expDesigner/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/VoidWither/expDesigner?style=for-the-badge"></a>
+  <a href="https://github.com/voidwither/expDesigner/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/VoidWither/expDesigner?style=for-the-badge&color=FFD700"></a>
+  <a href="https://github.com/voidwither/expDesigner/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/VoidWither/expDesigner?style=for-the-badge"></a>
+  <a href="https://github.com/voidwither/expDesigner/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/VoidWither/expDesigner?style=for-the-badge"></a>
   <img alt="Python" src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="PyQt6" src="https://img.shields.io/badge/GUI-PyQt6-41cd52?style=for-the-badge">
   <img alt="Platform" src="https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4?style=for-the-badge&logo=windows&logoColor=white">
